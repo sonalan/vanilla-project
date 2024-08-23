@@ -1,0 +1,1 @@
+#this is a sample vanilla js project
